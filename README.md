@@ -7,7 +7,7 @@ Just in case someone needs session for Windows forms/WPF
 
 ## Installation
 
-It is recommended to use NuGet. F.ex through the VS Package Manager Console `Install-Package <package>` or using the VS "Manage NuGet Packages..." extension. 
+It is recommended to use NuGet. F.ex through the VS Package Manager Console `Install-Package iQuantile.DotLib.SessionManager` or using the VS "Manage NuGet Packages..." extension. 
 
 
 ## How to use
