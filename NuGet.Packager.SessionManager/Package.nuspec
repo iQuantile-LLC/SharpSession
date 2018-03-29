@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>iQuantile.DotLib.SessionManager</id>
+    <version>1.0.0</version>
+    <title>SessionManager</title>
+    <authors>2TakarDeveloper</authors>
+    <owners>iQuantile</owners>
+    <description>
+     Session Class for Windows Forms/ WPF
+    </description>
+    <releaseNotes>
+      initial release
+    </releaseNotes>
+    <summary>
+      Session Class for Windows Forms/ WPF
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://nuget.org/packages/NuGet.Packager.SessionManager</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/37725852?s=400&amp;u=338ab9fd53da53a967c2250ca7bfa6a9fa4c65f4&amp;v=4</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <copyright>Copyright  2018</copyright>
+    <dependencies>
+        <group targetFramework="net40">
+          <dependency id="log4net" version="1.2.10" />
+        </group>
+    </dependencies>
+    <references></references>
+    <tags>Session dotnet winform .net</tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+    <file src="tools\" target="tools" />
+    <file src="content\" target="content" />
+  </files>
+</package>
